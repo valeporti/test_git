@@ -1,0 +1,14 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Just a test to understand how to use git with cloud9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "valeporti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
